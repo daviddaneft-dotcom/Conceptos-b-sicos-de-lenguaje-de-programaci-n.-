@@ -1,0 +1,19 @@
+# Seudocódigo 1
+### Solicitar 3 notas y calcular el promedio del estudiante y además ver si aprueba o no.
+
+Algoritmo PromedioNota
+Definir nota1,nota2,nota3 Como entero;
+escribir "Ingrese la nota1";
+leer nota1;
+escribir "Ingrese la nota2";
+leer nota2;
+escribir "Ingrese la nota3";
+leer nota3;
+promedio = (nota1 + nota2 + nota3)/3
+escribir "El promedio del estudiante es:",promedio ;
+si promedio >= 60 entonces 
+escribir "El estudiante aprobo ";
+sino 
+escribir "El estudiante reprobo ";
+Finsi
+FinAlgoritmo
