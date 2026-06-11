@@ -1,8 +1,15 @@
-# Conceptos-basicos-de-lenguaje-de-programacion.
-###Algunos de los conceptos básicos del lenguaje de programación que debemos saber son:
+# Seudocódigo 2
+## Calcular el area de un rectángulo 
+## Formula : area = base * altura.
 
-## Programación: Proceso de escribir instrucciones para que la computadora resuelva un problema. 
 
-## Algoritmo: Pasos Ordenados para resolver una situación 
 
-## Programa: Conjunto de instrucciones escritas en un lenguaje de programación. 
+Algoritmo ÁreaRectangulo
+Definir base,altura como real;
+escribir "Ingrese la base del rectángulo";
+leer base;
+escribir "Ingrese la altura del rectángulo";
+leer altura ;
+area = base * altura
+escribir "El area del rectángulo es:",area;
+FinAlgoritmo
