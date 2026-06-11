@@ -1,4 +1,4 @@
-# Conceptos-basicos-de-lenguaje-de-programacion.
+# Lenguaje-de-programacion.
 ###Algunos de los conceptos básicos del lenguaje de programación que debemos saber son:
 
 ## Programación: Proceso de escribir instrucciones para que la computadora resuelva un problema. 
