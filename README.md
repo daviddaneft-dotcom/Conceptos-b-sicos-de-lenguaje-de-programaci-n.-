@@ -1,8 +1,12 @@
-# Conceptos-basicos-de-lenguaje-de-programacion.
-###Algunos de los conceptos básicos del lenguaje de programación que debemos saber son:
+# Explicación:
+Lenguaje de programación, variable, entrada,proceso y salida
 
-## Programación: Proceso de escribir instrucciones para que la computadora resuelva un problema. 
+## Lenguaje de programación:Lenguaje usado para escribir instrucciones que la computadora puede ejecutar o traducir. 
 
-## Algoritmo: Pasos Ordenados para resolver una situación 
+## Variable:Espacio donde se guarda un dato por ejemplo una nota o una edad.
 
-## Programa: Conjunto de instrucciones escritas en un lenguaje de programación. 
+## Entrada: Datos que se ingresan al programa.
+
+## Proceso: Operaciones que el programa realiza con los datos.
+
+## Salida: Resultado que muestra el programa
